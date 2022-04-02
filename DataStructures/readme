@@ -1,0 +1,4 @@
+Project testing the "curse of dimensionality"
+Set size = 20k elements
+Calculation of the Euclidean distance between every element, then count of common distances(times the same distance was calculated)
+NumPair folder cointains the output. Filled as "Distance      Times calculated", the file name corresponds to the dimension of the data set
